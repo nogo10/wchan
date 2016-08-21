@@ -1,0 +1,46 @@
+.jumbotron{
+
+  
+  text-align: center;
+}
+
+
+
+h1 {
+  text-shadow: 1px 3px 3px #000;
+ 
+  font-size: 12vw;
+  color:blue;
+  text-align: center;
+  opacity: 0.7;
+
+}
+
+h2 {
+  text-shadow: 1px 3px 3px #000;
+}
+
+body {
+  color: black;
+  background-image: url("http://4.bp.blogspot.com/-mAOUn4enOgg/TZ-9QSh3j1I/AAAAAAAADb0/-PQ3aCd6txs/s640/Partly+Cloudy.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#titre {
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 1px 3px 3px #000;
+  
+}
+
+#demo {
+  font-size: 14vw;
+  text-align: center;
+ 
+  
+}
+
+.desc {text-align: center;
+}}
